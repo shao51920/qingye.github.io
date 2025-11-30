@@ -247,6 +247,11 @@
         const emojiPlaceholder = document.getElementById('emojiPlaceholder');
         const emojiControls = document.getElementById('emojiControls');
         const reUploadBtn = document.getElementById('reUploadBtn');
+        
+        // 重新上传按钮逻辑
+        reUploadBtn.addEventListener('click', () => {
+            fileInput.click();
+        });
 
         // 预览区点击上传
         imageWrapper.addEventListener('click', (e) => {
@@ -494,14 +499,6 @@
                 }, index * 200);
             });
         });
-
-        // 重新上传按钮逻辑
-        const reUploadBtn = document.getElementById('reUploadBtn');
-        reUploadBtn.addEventListener('click', () => {
-            fileInput.click();
-        });
-
-
 
         // 表情包转换
         const emojiFormat = document.getElementById('emojiFormat');
