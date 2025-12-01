@@ -6,7 +6,8 @@
 点击网址：https://shao51920.github.io/
 
 对你有用的话，麻烦点个star⭐
-![Uploading ScreenShot_2025-12-01_221318_165.png…]()
+
+<img width="1735" height="894" alt="ScreenShot_2025-12-01_221318_165" src="https://github.com/user-attachments/assets/cd02c589-e97e-40b7-bc6f-f8645401b1a1" />
 
 ## 🔒 隐私安全
 
